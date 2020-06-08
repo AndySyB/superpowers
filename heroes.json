@@ -7,7 +7,7 @@
     "members": [
         {
             "name": "DarkMan",
-            "age1": 520,
+            "age": 520,
             "secretIdentity": "Fernando Londoño",
             "powers": [
                 "Resistencia a las balas",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Black Mamba",
-            "age2": 359,
+            "age": 359,
             "secretIdentity": "Mary Pájon",
             "powers": [
                 "Súper velocidad",
@@ -28,7 +28,7 @@
         },
         {
             "name": "BlackSide",
-            "age3": 6000,
+            "age": 6000,
             "secretIdentity": "En Sabah Nur",
             "powers": [
                 "Immortalidad",
