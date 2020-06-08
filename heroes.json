@@ -3,11 +3,11 @@
     "homeTown": "Astrang City",
     "formed": 1110,
     "secretBase": "Cueva de la locura",
-    "active": true,
+    "active": Si,
     "members": [
         {
             "name": "DarkMan",
-            "age": 520,
+            "age1": 520,
             "secretIdentity": "Fernando Londoño",
             "powers": [
                 "Resistencia a las balas",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Black Mamba",
-            "age": 359,
+            "age2": 359,
             "secretIdentity": "Mary Pájon",
             "powers": [
                 "Súper velocidad",
@@ -28,7 +28,7 @@
         },
         {
             "name": "BlackSide",
-            "age": 6000,
+            "age3": 6000,
             "secretIdentity": "En Sabah Nur",
             "powers": [
                 "Immortalidad",
