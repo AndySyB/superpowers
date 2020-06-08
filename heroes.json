@@ -3,7 +3,7 @@
     "homeTown": "Astrang City",
     "formed": 1110,
     "secretBase": "Cueva de la locura",
-    "active": 'Si',
+    "active": true,
     "members": [
         {
             "name": "DarkMan",
